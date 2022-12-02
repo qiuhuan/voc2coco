@@ -1,0 +1,1 @@
+reference to [xml转为coco数据集中的json](https://blog.csdn.net/weixin_42729652/article/details/125881852)
